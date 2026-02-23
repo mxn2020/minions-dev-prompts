@@ -1,6 +1,12 @@
 ---
 name: minions-dev-prompts
-description: Reusable prompt templates, prompt chains, and prompt versioning for agent-tasks
+id: OC-0124
+version: 1.0.0
+description: "Reusable prompt templates, prompt chains, and prompt versioning for agent-tasks"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-dev-prompts — Agent Skills
