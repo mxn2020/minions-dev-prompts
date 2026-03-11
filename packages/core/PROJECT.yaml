@@ -6,3 +6,4 @@ description: "Reusable prompt templates, prompt chains, and prompt versioning fo
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
