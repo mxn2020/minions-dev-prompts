@@ -1,0 +1,8 @@
+name: "@minions-dev-prompts/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-dev-prompts-workspace
+description: "CLI for minions-dev-prompts — Reusable prompt templates, prompt chains, and prompt versioning for agent-tasks"
+priority: high
+deploy_url: null
+tags: null

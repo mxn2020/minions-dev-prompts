@@ -1,0 +1,8 @@
+name: "@minions-dev-prompts/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-dev-prompts-workspace
+description: "Reusable prompt templates, prompt chains, and prompt versioning for agent-tasks"
+priority: high
+deploy_url: null
+tags: null
