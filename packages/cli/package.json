@@ -1,6 +1,6 @@
 {
   "name": "@minions-dev-prompts/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-dev-prompts — Reusable prompt templates, prompt chains, and prompt versioning for agent-tasks",
   "license": "MIT",
   "repository": {

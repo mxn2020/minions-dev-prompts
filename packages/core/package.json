@@ -1,6 +1,6 @@
 {
   "name": "@minions-dev-prompts/sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reusable prompt templates, prompt chains, and prompt versioning for agent-tasks",
   "type": "module",
   "main": "./dist/index.js",
